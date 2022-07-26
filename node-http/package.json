@@ -6,7 +6,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
-  "author": "",
+  "author": "Adityan Gupta",
   "license": "ISC",
-  "description": ""
+  "description": "SImlpe express server",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
 }
